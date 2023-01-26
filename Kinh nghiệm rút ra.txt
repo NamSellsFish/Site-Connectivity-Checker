@@ -1,0 +1,6 @@
+- Có những hàm không thể viết example cho docstrings được. 
+	Ví dụ: read_user_cli_args() trong module cli.py do nó hoạt động giữa Terminal & Python Console. Trong khi 	doctest chỉ test được trong Python console
+
+- Viết doctest & REAME thực sự rất mệt, mà mình thì lười. -> Project nào thực sự quan trọng mới viết. Nhưng Docstring cho function, class module & package thì rất quan trọng. Nó như dàn ý của bài văn vậy THẾ NÊN giá nào cũng phải viết rồi mới code.
+
+- Phải xác lập tư tưởng cho đàng hoàng dô: Mày chắc chắn sẽ viết code cho người khác đọc, thế nên phải tập logging & annotation cho quen đi!!

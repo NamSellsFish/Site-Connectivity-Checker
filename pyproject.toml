@@ -1,0 +1,7 @@
+[build-system]
+requires = ["aiohttp"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "site-connectivity-checker"
+version = "1.0.0"
